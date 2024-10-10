@@ -26,7 +26,7 @@ header {
 }
 
 #logo-container {
-  content: url(/images/personal_logo_light.png);
+  content: url(images/personal_logo_light.png);
   height: 7rem;
   padding: 1rem;
 }
